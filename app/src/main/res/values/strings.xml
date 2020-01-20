@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NeyVerter</string>
+    <string name="pounds">Pounds</string>
+    <string name="euro">Euro</string>
+    <string name="yen">YEN ¥</string>
+    <string name="usd">USD $</string>
+    <string name="hasil_konversi">Hasil Konversi</string>
+    <string name="y">=</string>
+    <string name="_0_rp">0 Rp</string>
+</resources>
